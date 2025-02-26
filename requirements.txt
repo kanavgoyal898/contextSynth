@@ -1,2 +1,7 @@
+chromadb
 jupyterlab
+langchain
+langchain_community
+langchain-ollama
+langchain-openai
 python-dotenv
